@@ -1,0 +1,19 @@
+{
+  "gadm_features": 3148,
+  "csv_2025_county_rows": 3145,
+  "csv_2025_population": 341798195,
+  "baseline": {
+    "matched": 2978,
+    "unmatched": 170
+  },
+  "geopandas_cleaned": {
+    "merge_rows": 3150,
+    "matched_rows": 3084,
+    "unmatched_features": 66
+  },
+  "qgis_agent": {
+    "matched": 3123,
+    "unmatched": 25,
+    "population_sum": 336978041
+  }
+}

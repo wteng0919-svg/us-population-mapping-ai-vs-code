@@ -1,0 +1,8 @@
+# GeoPandas pipeline (rounds 1-2)
+geopandas>=0.14
+pandas>=2.0
+matplotlib>=3.7
+mapclassify>=2.6
+
+# Optional: open the historical notebooks
+# jupyterlab>=4.0
